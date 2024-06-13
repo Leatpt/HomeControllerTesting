@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LK_Veebirakendus.props" />
+</Project>
